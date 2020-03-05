@@ -6,7 +6,7 @@ Usage
 See action.yml
 
 
-` Works fo node 8.x, 10.x, 12.x `
+` Works for node 8.x, 10.x, 12.x `
   
 >  - uses: actions/checkout@v2
 >   - name: Use Node.js ${{ matrix.node-version }}
